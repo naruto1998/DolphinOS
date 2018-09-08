@@ -112,7 +112,6 @@ rd_kern2:
 	loop rd_kern2
 
 
-
 ;check memory information
 ;we save the memory information in ARDS_BUF struct
 
