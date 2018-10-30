@@ -80,7 +80,7 @@ void* malloc_page(enum pool_flags pf, uint32_t pg_cnt) {
 	 return NULL;
       }
    //   page_table_add((void*)vaddr, page_phyaddr); // 在页表中做映射 
-      vaddr += PAGE_SIZE;		 // 下一个虚拟页
+    //  vaddr += PAGE_SIZE;		 // 下一个虚拟页
    }
    return vaddr_start;
 }
