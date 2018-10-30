@@ -10,7 +10,7 @@
 	Version 0.05a------The character lib has been completed.
 	Version 0.06 the stack checked function of gcc is disable.
 	Version 0.07d new function: you can put the decimal number in screen.
-# How to run DolphinOS?
+# How do you run DolphinOS?
 	First, you need install a linux operating system like ubuntu, CentOS. 
 	And then you need install qemu, gcc(V5.40) & nasm in linux.
 	Finally you open the terminal in DolphinOS folder and enter the command: make run (make sure you are root.) 
